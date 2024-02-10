@@ -1,0 +1,11 @@
+{
+  "name": "grader",
+  "version": "1.0.0",
+  "description": "Simple Grader for testing",
+  "main": "grader.py",
+  "scripts": {
+    "test": "python -m unittest testGrader"
+  },
+  "author": "Kierra Bretz",
+  "license": "ISC"
+}
